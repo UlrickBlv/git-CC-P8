@@ -5,4 +5,11 @@ modi
 modifier fichi 2
 
 
+<<<<<<< HEAD
 salut c'est Blavin
+=======
+
+salut ulrick
+>>>>>>> develop
+
+Résolution !! merci Ulrick 
